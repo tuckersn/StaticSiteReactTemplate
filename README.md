@@ -1,5 +1,5 @@
 # Generic Static Site Template
-Very simple website to quickly set up my standard simple website.
+Quickly set up my standard simple website.
 
 
 ## Testing
